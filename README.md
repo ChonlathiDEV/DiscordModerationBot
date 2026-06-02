@@ -22,3 +22,5 @@
    git clone https://github.com/ChonlathiDEV/DiscordModerationBot.git
    cd discord-moderation-bot
 
+👨‍💻 Credits
+พัฒนาโดย Chonlathi DEV
