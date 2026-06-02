@@ -19,6 +19,6 @@
 ## 🛠 วิธีติดตั้ง
 1. Clone Repo นี้  
    ```bash
-   git clone https://github.com/yourusername/discord-moderation-bot.git
+   git clone https://github.com/ChonlathiDEV/DiscordModerationBot.git
    cd discord-moderation-bot
 
